@@ -15,7 +15,7 @@
    - 🌱 Sempre estudando sobre ReactJS, React Native e NodeJS.
 </p>
 <p align="justify">
-   - 🌱 Sempre aplicando e estudando sobre as boas práticas de clean architecture e desenvolvimento dirigido a teste(TDD).
+   - 🌱 Sempre aplicando e estudando sobre as boas práticas de Arquitetura Limpa e Desenvolvimento Dirigido a Teste(TDD).
 </p>
 <p align="justify">
    - 💻 Graduado em Análise e Desenvolvimento de Sistemas. 
