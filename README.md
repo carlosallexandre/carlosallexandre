@@ -1,9 +1,3 @@
-<div align="right">
-
-[![Visitors](https://komarev.com/ghpvc/?username=carlosallexandre&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/carlosallexandre)
-
-</div>
-
 # Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 <p align="justify">
   Me chamo Carlos Alexandre e sou desenvolvedor Full Stack. Trabalho atualmente com NodeJs, ReactJS e ReactNative. 
